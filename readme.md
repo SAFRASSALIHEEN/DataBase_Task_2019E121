@@ -6,6 +6,8 @@
 - PHP 
 - MySQL 
 - Java
+- JavaScript
+- HTML
 ==========================================================
       Admin LogIn details
 Username: admin / safras / nazil
